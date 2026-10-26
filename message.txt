@@ -1,1 +1,1 @@
-Resolved conflict text
+Change from feature branch
